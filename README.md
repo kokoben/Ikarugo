@@ -1,8 +1,8 @@
 # ikarugo
 
-A simple project I started to learn the basics of Pygame and game design.
+A project I started to learn the basics of Pygame and game design.
 
-Developed in Pygame, 'Ikarugo' is a crude knock-off of the classic vertical shooter 'Ikaruga'.
+Developed in Pygame, 'Ikarugo' is a clone of the classic vertical shooter 'Ikaruga'.
 
 Requires Pygame for Python 3.x.
 
